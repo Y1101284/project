@@ -585,9 +585,19 @@ iframe.mymap {
 @media only screen and (min-device-width : 606px) and (max-device-width : 1140px) and (orientation : landscape) {}
 
 
-@media only screen and (min-device-width : 605px) and (max-device-width : 825px) and (orientation : landscape) {}
+@media only screen and (min-device-width : 652px) and (max-device-width : 655px) and (orientation : landscape) {
+
+	.navbar li {
+		padding: 0.2rem 1.5rem 0.2rem 1.5rem;
+	}
+}
 
 /* iPads (landscape) ----------- */
 @media only screen and (min-device-width : 601px) and (max-device-width : 1200px) and (orientation : landscape) {}
 
-@media only screen and (min-device-width : 305px) and (max-device-width : 600px) and (orientation : landscape) {}
+@media only screen and (min-device-width : 564px) and (max-device-width : 569px) and (orientation : landscape) {
+
+.navbar li {
+	padding: 0.2rem 1.5rem 0.2rem 1.5rem;
+}
+}
